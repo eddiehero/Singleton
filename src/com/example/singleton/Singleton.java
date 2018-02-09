@@ -1,7 +1,8 @@
 package com.example.singleton;
 
 /**
- * Created by rto on 2018-01-30.
+ * Created by rto on 2018-01-30. v2
+ * hello
  */
 
 
